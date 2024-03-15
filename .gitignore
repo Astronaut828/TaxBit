@@ -70,7 +70,6 @@ typings/
 
 # TypeScript compiled files
 *.tsbuildinfo
-*.js
 *.d.ts
 # Uncomment the line below if you want to keep your JS files outside of version control
 # !src/**/*.js
